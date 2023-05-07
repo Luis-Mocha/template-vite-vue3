@@ -16,11 +16,13 @@ This template should help get you started developing with Vue 3 in Vite. The tem
     "build": "vite build",
     "preview": "vite preview"
   },
+
   "dependencies": {
     "axios": "^1.4.0",
     "bootstrap": "^5.3.0-alpha3",
     "vue": "^3.2.47"
   },
+  
   "devDependencies": {
     "@vitejs/plugin-vue": "^4.1.0",
     "sass": "^1.62.1",
